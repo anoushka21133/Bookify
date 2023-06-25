@@ -1,0 +1,2 @@
+# Bookify
+Bookify is a discord bot made using Javascript. It is a project amde to help bibliophiles find their next read using Discord. The bot takes the name of a book as an input and returns the first 10 results for the book found in the Google Books database. It also allows a user to select one of the options provided and returns the information (title,author,description,rating) for it. It uses the Google Books API to accomplish this.
